@@ -1,0 +1,14 @@
+Software:-
+- Software is a collection of information, instruction and data.
+
+types:
+1. System Software
+
+2. Application Software
+    i) Web application 
+    ii) Desktop application
+    iii) Mobile application
+
+3. Programming Software
+- Compiler
+        * Translates the source code into machine language instructions that can be executed by computer

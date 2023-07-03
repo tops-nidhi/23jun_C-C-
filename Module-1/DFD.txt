@@ -1,0 +1,10 @@
+DFD:-
+- Data Flow Diagram
+- Used for showing data movement in a system or process
+-------------------------------------------
+Flow Chart
+- Use to show the flow of the Process
+types:-
+1. Sequential/ leaniaer Diagram
+2. Branching Statements
+3. Looping Statements
