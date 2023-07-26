@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Nidhi batch/C_C++/23Jun_C_C++",
-      "program": "d:/Nidhi batch/C_C++/23Jun_C_C++/build/Debug/outDebug",
+      "cwd": "d:/Nidhi batch/C_C++/23Jun_C_C++/Operator",
+      "program": "d:/Nidhi batch/C_C++/23Jun_C_C++/Operator/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
