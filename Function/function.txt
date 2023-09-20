@@ -1,0 +1,19 @@
+Function:-
+
+Definition:-
+-> Function is a block of code
+-> It can be used to perform specific task.
+
+Types:
+1) Built-in function (C programming has many built in functions).
+-> Which was predefine
+-> For ex. strcmp(), strlen(), strcat(), printf();
+2) User defined function
+-> We define our own function and use it anywhere we want.
+
+Types:-
+1) void type :- No return value, no parameters.
+2) int type  :- Return integer values, takes any number as parameter(s), returns the sum of all numbers passed into this function.
+2) int type  :- Return integer values, take any number as parameter(s).
+3) float type :- Return floating point numbers, takes decimal numbers as input.(float or double)
+4) char type :- Returns character, takes single characters as inputs. 
